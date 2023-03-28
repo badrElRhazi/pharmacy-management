@@ -1,0 +1,118 @@
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\Pharmacie.dll.config
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\Pharmacie.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\Pharmacie.pdb
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\csc.exe
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\csc.exe.config
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\csc.rsp
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\csi.exe
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\csi.exe.config
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\csi.rsp
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.AppContext.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Console.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Net.Http.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\vbc.exe
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\vbc.exe.config
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\vbc.rsp
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\obj\Debug\Pharmacie.csproj.AssemblyReference.cache
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\obj\Debug\Pharmacie.csproj.CoreCompileInputs.cache
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\obj\Debug\Pharmacie.csproj.CopyComplete
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\obj\Debug\Pharmacie.dll
+C:\Users\Hp EliteBook\Desktop\efmRegional\ASP\Pharmacie\Pharmacie\obj\Debug\Pharmacie.pdb
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\Pharmacie.dll.config
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\Pharmacie.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\Pharmacie.pdb
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\csc.exe
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\csc.exe.config
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\csc.rsp
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\csi.exe
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\csi.exe.config
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\csi.rsp
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.Managed.Core.targets
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.AppContext.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Collections.Immutable.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Console.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Globalization.Calendars.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.IO.Compression.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.IO.FileSystem.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Net.Http.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Net.Sockets.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Reflection.Metadata.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.ValueTuple.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Xml.XmlDocument.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Xml.XPath.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\vbc.exe
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\vbc.exe.config
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\vbc.rsp
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\VBCSCompiler.exe
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\roslyn\VBCSCompiler.exe.config
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\obj\Debug\Pharmacie.csproj.AssemblyReference.cache
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\obj\Debug\Pharmacie.csproj.CoreCompileInputs.cache
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\obj\Debug\Pharmacie.csproj.CopyComplete
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\obj\Debug\Pharmacie.dll
+D:\programming\FORRRR\efmRegional\ASP\Pharmacie\Pharmacie\obj\Debug\Pharmacie.pdb
